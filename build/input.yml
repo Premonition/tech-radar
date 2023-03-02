@@ -1,0 +1,72 @@
+
+techniques:
+  - jujutsu:
+      stage: "trial"
+      moved: "up"
+      description: "Nada"
+  - hapkido:
+      stage: "adopt"
+      moved: "down"
+      description: "Nada"
+  - budo:
+      stage: "hold"
+      moved: 
+      description: "Nada"
+  - judo:
+      stage: "assess"
+      moved: "up"
+      description: "Nada"
+
+tooling:
+  - claw-hammer:
+      stage: "trial"
+      moved: "up"
+      description: "Nada"
+  - pipe-wrench:
+      stage: "adopt"
+      moved: "down"
+      description: "Nada"
+  - death-knell:
+      stage: "hold"
+      moved: 
+      description: "Nada"
+  - fork-lift:
+      stage: "assess"
+      moved: "up"
+      description: "Nada"
+
+platforms:
+  - leitai:
+      stage: "trial"
+      moved: "up"
+      description: "Nada"
+  - twitter:
+      stage: "adopt"
+      moved: "down"
+      description: "Nada"
+  - final-destination:
+      stage: "hold"
+      moved: 
+      description: "Nada"
+  - benchtop:
+      stage: "assess"
+      moved: "up"
+      description: "Nada"
+
+languages-and-frameworks:
+  - esperanto:
+      stage: "trial"
+      moved: "up"
+      description: "Nada"
+  - english:
+      stage: "adopt"
+      moved: "down"
+      description: "Nada"
+  - french:
+      stage: "hold"
+      moved: 
+      description: "Nada"
+  - jan-mayen:
+      stage: "assess"
+      moved: "up"
+      description: "Nada"
